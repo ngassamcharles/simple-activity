@@ -6,3 +6,4 @@ var monObjet = {
 
 console.log(monObjet.nom);
 console.log(monObjet.numero);
+console.log(monObjet.type);
