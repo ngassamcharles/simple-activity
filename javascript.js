@@ -4,6 +4,6 @@ var monObjet = {
     numero : 3
 }
 
-console.log(monObjet.nom);
-console.log(monObjet.numero);
-console.log(monObjet.type);
+alert(monObjet.nom);
+alert(monObjet.numero);
+alert(monObjet.type);
